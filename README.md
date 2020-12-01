@@ -4,8 +4,8 @@ Treehouse - Deploy React App with Netlify
 ## Info
 ```
 GitHub repo:       https://github.com/germanny/course-directory-netlify
-Logs:              https://app.netlify.com/sites/course-directory-netlify/deploys/5fc66421c740be0098b6e33f
-Website Draft URL: https://5fc66421c740be0098b6e33f--course-directory-netlify.netlify.app
+Netlify:           https://app.netlify.com/sites/course-directory-netlify/overview
+URL:               https://course-directory-netlify.netlify.app/
 ```
 
 ## Local Dev
